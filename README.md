@@ -8,3 +8,7 @@ Using Financial Modeling Prep API, we analyze financial statements using Python
 2. Copy your API KEY from [here](https://site.financialmodelingprep.com/developer/docs)
 3. Paste your API KEY in a new file called api-key in the same directory that `main.py`
 4. Run `main.py` 
+
+## Credits 
+
+- [NeuraNine Youtube Channel](https://youtu.be/ZAAuGEVJsH8)
